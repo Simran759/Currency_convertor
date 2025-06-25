@@ -4,7 +4,7 @@ A responsive and interactive Currency Converter application built with **HTML**,
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the Currency Converter](https://simran759.github.io/Currency-Converter/) <!-- Replace with your actual GitHub Pages link -->
+👉 [Click here to try the Currency Converter](https://simran759.github.io/Currency_Convertor/) 
 
 ## 🚀 Features
 
